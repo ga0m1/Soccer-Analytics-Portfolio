@@ -20,13 +20,18 @@ My goal is to bridge the gap between my academic training in data science and th
 
 Here you'll find a selection of projects I've worked on. Each project includes a link to the code and a detailed analysis in a Jupyter Notebook.
 
-### Project 1: Analysis of Darwin Núñez's Shot Performance (2024/25 Season)
+### Project 1: Analysis of Darwin Salah's Shot Performance - Consistency and Evolution of a World-Class Goalscorer (2024/25 Season)
 
-![Nunez Shot Map](path/to/your/nunez_shot_map.png)
+![Salah Shot Map](path/to/your/nunez_shot_map.png)
 
-* **Description:** This project analyzes the shooting patterns of Liverpool's striker, Darwin Núñez. By visualizing every shot taken in the Premier League, I compared his actual goal tally against his Expected Goals (xG) to objectively assess his finishing ability and identify his preferred shooting locations.
+* **Description:** This project analyzes the shooting patterns of Liverpool's striker, Mohamed Salah. By visualizing every shot taken in the Premier League, I compared his actual goal tally against his Expected Goals (xG) to objectively assess his finishing ability and identify his preferred shooting locations.
 * **Skills Used:** `Python`, `Pandas`, `Matplotlib`, `mplsoccer`, `StatsBomb API`
-* **[➡️ View Code and Analysis](./Nunez_Shot_Analysis.ipynb)** ---
+* **[➡️ View Code and Analysis](./Salah_Shot_Analysis.ipynb)** ---
+* ---
+#### Data Source & Acknowledgements
+All data used in this analysis was provided by **StatsBomb** through their **[Open Data repository](https://github.com/statsbomb/open-data)**.
+
+*Data provided by StatsBomb.*
 
 ### Project 2: [Coming Soon] Tactical Analysis via Passing Networks
 
