@@ -27,11 +27,13 @@ Here you'll find a selection of projects I've worked on. Each project includes a
 * **Description:** This project analyzes the shooting patterns of Liverpool's striker, Mohamed Salah. By visualizing every shot taken in the Premier League, I compared his actual goal tally against his Expected Goals (xG) to objectively assess his finishing ability and identify his preferred shooting locations.
 * **Skills Used:** `Python`, `Pandas`, `Matplotlib`, `mplsoccer`, `StatsBomb API`
 * **[➡️ View Code and Analysis](./Salah_Shot_Analysis.ipynb)** ---
-* ---
+
 #### Data Source & Acknowledgements
 Data provided by StatsBomb.
 
-[![StatsBomb Logo](./assets/statsbomb_logo.png)](https://statsbomb.com/)
+<a href="https://statsbomb.com/">
+  <img src="./assets/statsbomb_logo.png" alt="StatsBomb Logo" width="200">
+</a>
 
 ### Project 2: [Coming Soon] Tactical Analysis via Passing Networks
 
