@@ -20,13 +20,13 @@ My goal is to bridge the gap between my academic training in data science and th
 
 Here you'll find a selection of projects I've worked on. Each project includes a link to the code and a detailed analysis in a Jupyter Notebook.
 
-### Project 1: Analysis of Darwin Salah's Shot Performance - Consistency and Evolution of a World-Class Goalscorer (2024/25 Season)
+### Project 1: Analysis of Philippe Coutinho's Shot Performance (2015/16 Season)
 
-![Salah Shot Map](path/to/your/nunez_shot_map.png)
+![Coutinho Shot Map](./assets/coutinho_shot_map.png)
 
-* **Description:** This project analyzes the shooting patterns of Liverpool's striker, Mohamed Salah. By visualizing every shot taken in the Premier League, I compared his actual goal tally against his Expected Goals (xG) to objectively assess his finishing ability and identify his preferred shooting locations.
+* **Description:** This project analyzes the shooting patterns of Liverpool's "Little Magician," Philippe Coutinho, during the pivotal 2015/16 season. This was Jürgen Klopp's first season as manager, and Coutinho was the team's primary creative force. By visualizing his shots, I assessed his goal-scoring contribution, his famous long-range threat, and compared his performance against his Expected Goals (xG).
 * **Skills Used:** `Python`, `Pandas`, `Matplotlib`, `mplsoccer`, `StatsBomb API`
-* **[➡️ View Code and Analysis](./Salah_Shot_Analysis.ipynb)** ---
+* **[➡️ View Code and Analysis](./Coutinho_Shot_Analysis_1516.ipynb)** ---
 
 #### Data Source & Acknowledgements
 Data provided by StatsBomb.
