@@ -31,7 +31,7 @@ Here you'll find a selection of projects I've worked on. Each project includes a
 #### Data Source & Acknowledgements
 Data provided by StatsBomb.
 
-[![StatsBomb Logo](assets/statsbomb_logo.png)](https://statsbomb.com/)
+[![StatsBomb Logo](./assets/statsbomb_logo.png)](https://statsbomb.com/)
 
 ### Project 2: [Coming Soon] Tactical Analysis via Passing Networks
 
