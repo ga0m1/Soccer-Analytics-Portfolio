@@ -39,7 +39,7 @@ Here you'll find a selection of projects I've worked on. Each project includes a
 
 I am actively seeking internship and full-time opportunities in the field of sports analytics. Let's connect and talk about football and data!
 
-* **LinkedIn:** [linkedin.com/in/your-profile-url](https://linkedin.com/in/your-profile-url) 
+* **LinkedIn:** [www.linkedin.com/in/gaomi](www.linkedin.com/in/gaomi) 
     * **Email:** [mig064@ucsd.edu](mailto:mig064@ucsd.edu) 
     ````
 
