@@ -42,11 +42,3 @@ I am actively seeking internship and full-time opportunities in the field of spo
 * **LinkedIn:** [www.linkedin.com/in/gaomi](www.linkedin.com/in/gaomi) 
     * **Email:** [mig064@ucsd.edu](mailto:mig064@ucsd.edu) 
     ````
-
-### **给你的修改建议：**
-
-1.  **个性化 "About Me"**: 虽然我已经为你写了一段，但你可以加入更多能体现你个人特色的句子。
-2.  **项目描述**: 当你完成项目后，可以把项目描述写得更详细、更有吸引力一些。比如，你发现了什么有趣的结论？
-3.  **保持更新**: 每当你完成一个新的项目，就按照这个模板把它添加到 `Projects` 区域。一个持续更新的GitHub是求职时非常大的加分项。
-
-现在，你的GitHub看起来就已经非常专业了！接下来就是用高质量的项目来填充它。
