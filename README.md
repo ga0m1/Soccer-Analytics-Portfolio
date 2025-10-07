@@ -24,9 +24,16 @@ Here you'll find a selection of projects I've worked on. Each project includes a
 
 ![Coutinho Shot Map](./assets/coutinho_shot_map.png)
 
-* **Description:** This project analyzes the shooting patterns of Liverpool's "Little Magician," Philippe Coutinho, during the pivotal 2015/16 season. This was Jürgen Klopp's first season as manager, and Coutinho was the team's primary creative force. By visualizing his shots, I assessed his goal-scoring contribution, his famous long-range threat, and compared his performance against his Expected Goals (xG).
-* **Skills Used:** `Python`, `Pandas`, `Matplotlib`, `mplsoccer`, `StatsBomb API`
-* **[➡️ View Code and Analysis](./Coutinho_Shot_Analysis_1516.ipynb)** ---
+* **Description:** This project analyzes the shooting patterns of Liverpool's "Little Magician," Philippe Coutinho, during the pivotal 2015/16 Premier League season. As Jürgen Klopp's first season as manager, this analysis seeks to quantify Coutinho's role as the team's primary creative and goal-scoring threat. By visualizing all 111 of his shots and comparing his performance against the Expected Goals (xG) model, this project tells a data-driven story of his unique playing style.
+
+* **Key Findings:**
+    * **High Volume of Long Shots:** A significant majority of Coutinho's shots (**69.4%**) were taken from outside the penalty box, confirming his reputation as a player who frequently attempts long-range efforts.
+    * **"Coutinho Zone":** The highest concentration of shots originates from the "left half-space," the ideal position for a right-footed player to cut inside and shoot.
+    * **Above-Average Finisher:** Coutinho scored **8** goals from a total Expected Goals (xG) value of just **7.13**, resulting in an overperformance of **+0.87**. This indicates a clinical finishing ability, especially considering the low probability of his many long-range attempts.
+
+* **Skills Used:** `Python`, `Pandas`, `Matplotlib`, `mplsoccer`, `StatsBomb API`, Data Visualization, Statistical Analysis.
+
+* **[➡️ View Code and Full Analysis](./Coutinho_Shot_Analysis_1516.ipynb)**
 
 #### Data Source & Acknowledgements
 Data provided by StatsBomb.
